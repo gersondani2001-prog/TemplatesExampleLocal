@@ -1,0 +1,38 @@
+/*Informacion*/
+
+Creacion de carpetas y archivos importantes
+-css
+-img
+-js
+-lib
+-node-module
+-resources
+-scss
+-templates
+Archivo gulpfile
+index
+
+pagina principal index
+
+instalacion de servidor gulp
+
+npm install gulp-cli -g -> en c\:
+npm install --save-dev gulp -> en la carpeta
+npm install browser-sync --save-dev gulp -> en la carpet
+
+
+iconos
+icomoon importalo en resources
+
+angular js, jquery y bootstrap 4
+
+php para base de datos, scss para variables locales y globales de estilos
+
+
+
+
+
+
+
+
+
