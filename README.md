@@ -1,0 +1,2 @@
+# TemplatesExampleLocal
+Es la estructura de una pagina web local, solo con uso de angularjs, jquery, bootstrap y mysql para base de datos esto es para tener la base del sitio web para cuando es necesario hacer un sitio no hacer todo esto para modelestar siempre instalar los node modules, y el servidor de gulp para trabajar, este sitio web esta renderizado y compuesto con codigo local de angular js.
